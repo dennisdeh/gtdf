@@ -1,4 +1,4 @@
-# gtdf - Generate testing (pandas) DataFrame
+### gtdf - Generate testing (pandas) DataFrame
 
 This is a module with collection of generating objects useful for development and testing.
 The focus is on simplicity (everything does what you expect it to out-of-the-box) and versatility (many different types of data, many parameters).
